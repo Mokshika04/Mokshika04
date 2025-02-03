@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any new project which is interesting and has a unique idea.
 - 📫 How to reach me - mokshikapandey@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Might seem to much interested in coding at first but if it excites me i am all in for it.
+- ⚡ Fun fact: Might seem not so interested in coding at first but if it excites me i am all in for it.
 
 <!---
 Mokshika04/Mokshika04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
